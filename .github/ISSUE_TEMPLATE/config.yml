@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💬 질문 및 토론"
+    url: https://github.com/hjoong-tangunsoft/AI_assistant_advanced/discussions
+    about: "질문이나 토론은 GitHub Discussions를 이용해주세요"
